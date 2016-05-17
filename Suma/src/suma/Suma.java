@@ -60,5 +60,8 @@ public class Suma extends JFrame {
 	public static void main(String[] args) {
 		new Suma();
 	}
+	public void Imprimir(){
+	System.out.printl("I TAKE MY MONEY, PUSSYCAT!!!");
+	}
 
 }
