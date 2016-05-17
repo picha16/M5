@@ -15,6 +15,7 @@ public class Suma extends JFrame {
 	private JLabel label1,label2;
 	
 	public Suma(){
+		system.out.println("puig afelador nato");
 		super("Suma");
 		panel=new JPanel();
 		text1=new JTextField(5);
